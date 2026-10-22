@@ -1,2 +1,1 @@
-# Kavinkumar
-It's a html file 
+print("welcome")
